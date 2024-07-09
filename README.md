@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ajit Phulmante</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img aligh="right" width=400 src="https://rajacepat.com/assets/frontend/img/webdev.gif" alt="coding" >
+<img align="right" width=400 src="https://rajacepat.com/assets/frontend/img/webdev.gif" alt="coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitphulmante&label=Profile%20views&color=0e75b6&style=flat" alt="ajitphulmante" /> </p>
 
