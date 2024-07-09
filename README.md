@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <img align="right" width=400 src="https://rajacepat.com/assets/frontend/img/webdev.gif" alt="coding" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitphulmante" alt="ajitphulmante" /></a> </p>
-
 - 🔭 I’m currently working on [Smart bus pass system](https://github.com/Ajitphulmante/Smart_bus_pass)
 
 - 💬 Ask me about **React,Machine Learning**
