@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ajitphulmante/Ajitphulmante/blob/main/Ajit%20PHULMANTE.png)
 
 <!--
 **Ajitphulmante/Ajitphulmante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
